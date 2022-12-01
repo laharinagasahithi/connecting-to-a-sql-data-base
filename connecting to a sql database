@@ -1,0 +1,7 @@
+How can we connect to a database?
+Create a connection from the home page
+Click the Connections tab .
+Click New connection and choose Database from the menu. The New connection window appears.
+Choose the database type you want to connect to. ...
+Provide the connection properties for your database. ...
+Click Add.
